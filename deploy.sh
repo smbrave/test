@@ -2,4 +2,3 @@
 
 echo "okkkk"
 
-exit 1
